@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Web Design",
+        "body": "Web design refers to the design of websites that are displayed on the internet. It usually refers to the user experience aspects of website development rather than software development",
+        "img": "https://img.favpng.com/4/25/20/web-design-computer-icons-website-web-development-icon-design-png-favpng-tCdFHu7syAhrDcwnMDQSbP2M6.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Web Development",
+        "body": "I can understand that because the feeling of discovering a great article is similar to finding gold in a salt-mine. ",
+        "img": "https://www.nicepng.com/png/full/263-2630027_web-design-development-icon-web-development-icons-png.png"
+    },
+    {
+        "id": 3,
+        "title": "Programming Language",
+        "body": "A programming language is a way for programmers (developers) to communicate with computers. Programming languages consist of a set of rules that allows string values to be converted",
+        "img": "https://icon-library.com/images/programming-icon/programming-icon-9.jpg"
+    },
+    {
+        "id": 4,
+        "title": "App Development",
+        "body": "Mobile app development is the process of developing an application that can be installed on a smartphone or other mobile device. Mobile applications are often used to provide users with access to data,",
+        "img": "https://toppng.com/uploads/preview/android-application-development-icon-11549837439r9kpneddas.png"
+    }
+]
