@@ -6,7 +6,7 @@
         "image": "https://www.fossmint.com/wp-content/uploads/2019/02/Udemy-Python-Learning-Courses-for-Beginners.png",
         "duration": 6,
         "price": 5000,
-        "class": 56,
+        "totalClass": 56,
         "purchase": 2,
         "time": 12.30,
         "facilities": [
@@ -18,7 +18,7 @@
             "special class",
             "crush course"
         ],
-        "python": [
+        "use": [
             " You can freely use and distribute Python, even for commercial use.",
             "Python has a very simple and elegant syntax. It's much easier to read and write Python programs compared to other languages like C++, Java, C#.",
             "You can move Python programs from one platform to another, and run it without any changes.",
@@ -33,7 +33,7 @@
         "image": "https://www.seoclerk.com/pics/000/752/001/3ab84585bdc7c8b822c98d3011fe25f1.png",
         "duration": 4,
         "price": 3000,
-        "class": 28,
+        "totalClass": 28,
         "purchase": 1.2,
         "time": 8.00,
         "facilities": [
@@ -45,7 +45,7 @@
             "special class",
             "crush course"
         ],
-        "php": [
+        "use": [
             "PHP is a recursive acronym for 'PHP: Hypertext Preprocessor'",
             "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites.",
             "It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.",
@@ -58,10 +58,10 @@
         "title": "Go Language",
         "details": "Go, also known as Golang, is an open-source, compiled, and statically typed programming language designed by Google. It is built to be simple, high-performing, readable, and efficient.",
         "image": "https://contentstatic.techgig.com/photo/82278297/5-top-advantages-of-using-golang-programming-language.jpg?35743",
-        "duration": 6,
+        "duration": 7,
         "price": 5500,
-        "class": 52,
-        "purchase": 2.2,
+        "totalClass": 52,
+        "purchase": 3.1,
         "time": 15.00,
         "facilities": [
             "live support",
@@ -72,7 +72,7 @@
             "special class",
             "crush course"
         ],
-        "go": [
+        "use": [
             "Go is one of the simplest programming languages out there. It is easy to pick up especially if you already have knowledge of any other programming language. In my case, I learned the fundamentals of Go in one sitting.",
             "A lot of developers who use Go and are confident in their teaching abilities say that they can get an absolute beginner to build an app with Go in just a few hours.",
             "The simplicity of Go is one of the main reasons it jumped 5 places from the 10th to 5th most loved programming language according to the 2020 StackOverflow Developer Survey."
@@ -85,7 +85,7 @@
         "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200416205918/Top-10-Django-Apps-And-Why-Companies-Are-Using-it.png",
         "duration": 6,
         "price": 5500,
-        "class": 52,
+        "totalClass": 52,
         "purchase": 2.2,
         "time": 15.00,
         "facilities": [
@@ -97,7 +97,7 @@
             "special class",
             "crush course"
         ],
-        "django": [
+        "use": [
             "a lightweight and standalone web server for development and testing",
             "a form serialization and validation system that can translate between HTML forms and values suitable for storage in the database",
             "a template system that utilizes the concept of inheritance borrowed from object-oriented programming",
@@ -113,7 +113,7 @@
         "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/06/photoshop-cloud.jpg?quality=82&strip=all",
         "duration": 3,
         "price": 6000,
-        "class": 40,
+        "totalClass": 40,
         "purchase": 5.1,
         "time": 12.00,
         "facilities": [
@@ -126,7 +126,7 @@
             "special class",
             "crush course"
         ],
-        "photoshop": [
+        "use": [
             "The fastest way to center element(s) in photoshop is by using the marquee selection tool and I didn't even know it was possible until recently. ",
             "I'm not happy with moving my mouse and clicking on a button. I'm lazy, so let's make this process even faster by creating our own keyboard shortcut to center the layer.",
             "Photoshop now includes smart guides which appear on the screen as you move layers around, informing you of the location of the layer relative to other layers."
@@ -137,10 +137,10 @@
         "title": "Adove Illustrator",
         "details": "Adobe Illustrator's the industry standard when it comes to creating vector artwork. It's used by artists, illustrators, designers and many more creative, and enables you to create crisp and scalable artwork, graphics and illustrations on Mac, PC and iPad, and now you can even use it in a web browser.",
         "image": "https://www.classcentral.com/report/wp-content/uploads/2022/06/Adobe-Illustrator-BCG-Banner.png",
-        "duration": 3,
-        "price": 6000,
-        "class": 40,
-        "purchase": 5.1,
+        "duration": 4,
+        "price": 5500,
+        "totalClass": 38,
+        "purchase": 4.1,
         "time": 12.00,
         "facilities": [
             "live support",
@@ -152,12 +152,12 @@
             "special class",
             "crush course"
         ],
-        "photoshop": [
-            "Vactor art",
-            "Creative Design",
-            "the information is extracted from BIM and contains mass data, such as the equipment information provided in building",
-            "Large Design",
-            "Easy use"
+        "use": [
+            "Vactor art.",
+            "Creative Design.",
+            "the information is extracted from BIM and contains mass data, such as the equipment information provided in building.",
+            "Large Design.",
+            "Easy use."
         ]
     }
 ]
