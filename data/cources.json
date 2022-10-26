@@ -1,0 +1,163 @@
+[
+    {
+        "id": 101,
+        "title": "Python Language",
+        "details": "Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields. Fortunately for beginners, Python has a simple, easy-to-use syntax. This makes Python a great language to learn for beginners.",
+        "image": "https://www.fossmint.com/wp-content/uploads/2019/02/Udemy-Python-Learning-Courses-for-Beginners.png",
+        "duration": 6,
+        "price": 5000,
+        "class": 56,
+        "purchase": 2,
+        "time": 12.30,
+        "facilities": [
+            "live support",
+            "24 hour support",
+            "live class",
+            "assignment",
+            "update video",
+            "special class",
+            "crush course"
+        ],
+        "python": [
+            " You can freely use and distribute Python, even for commercial use.",
+            "Python has a very simple and elegant syntax. It's much easier to read and write Python programs compared to other languages like C++, Java, C#.",
+            "You can move Python programs from one platform to another, and run it without any changes.",
+            "Python is easy to learn. Its syntax is easy and code is very readable.",
+            "Python allows you to write programs in fewer lines of code than most of the programming languages."
+        ]
+    },
+    {
+        "id": 102,
+        "title": "PHP Language",
+        "details": "PHP started out as a small open source project that evolved as more and more people found out how useful it was. Rasmus Lerdorf unleashed the first version of PHP way back in 1994. PHP is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning PHP",
+        "image": "https://www.seoclerk.com/pics/000/752/001/3ab84585bdc7c8b822c98d3011fe25f1.png",
+        "duration": 4,
+        "price": 3000,
+        "class": 28,
+        "purchase": 1.2,
+        "time": 8.00,
+        "facilities": [
+            "live support",
+            "24 hour support",
+            "live class",
+            "assignment",
+            "update video",
+            "special class",
+            "crush course"
+        ],
+        "php": [
+            "PHP is a recursive acronym for 'PHP: Hypertext Preprocessor'",
+            "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites.",
+            "It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.",
+            "PHP is pleasingly zippy in its execution, especially when compiled as an Apache module on the Unix side. The MySQL server, once started, executes even very complex queries with huge result sets in record-setting time.",
+            "PHP Syntax is C-Like."
+        ]
+    },
+    {
+        "id": 103,
+        "title": "Go Language",
+        "details": "Go, also known as Golang, is an open-source, compiled, and statically typed programming language designed by Google. It is built to be simple, high-performing, readable, and efficient.",
+        "image": "https://contentstatic.techgig.com/photo/82278297/5-top-advantages-of-using-golang-programming-language.jpg?35743",
+        "duration": 6,
+        "price": 5500,
+        "class": 52,
+        "purchase": 2.2,
+        "time": 15.00,
+        "facilities": [
+            "live support",
+            "24 hour support",
+            "live class",
+            "assignment",
+            "update video",
+            "special class",
+            "crush course"
+        ],
+        "go": [
+            "Go is one of the simplest programming languages out there. It is easy to pick up especially if you already have knowledge of any other programming language. In my case, I learned the fundamentals of Go in one sitting.",
+            "A lot of developers who use Go and are confident in their teaching abilities say that they can get an absolute beginner to build an app with Go in just a few hours.",
+            "The simplicity of Go is one of the main reasons it jumped 5 places from the 10th to 5th most loved programming language according to the 2020 StackOverflow Developer Survey."
+        ]
+    },
+    {
+        "id": 104,
+        "title": "Django FraneWork",
+        "details": "Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It is free and open source, has a thriving and active community, great documentation, and many options for free and paid-for support.",
+        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200416205918/Top-10-Django-Apps-And-Why-Companies-Are-Using-it.png",
+        "duration": 6,
+        "price": 5500,
+        "class": 52,
+        "purchase": 2.2,
+        "time": 15.00,
+        "facilities": [
+            "live support",
+            "24 hour support",
+            "live class",
+            "assignment",
+            "update video",
+            "special class",
+            "crush course"
+        ],
+        "django": [
+            "a lightweight and standalone web server for development and testing",
+            "a form serialization and validation system that can translate between HTML forms and values suitable for storage in the database",
+            "a template system that utilizes the concept of inheritance borrowed from object-oriented programming",
+            "a caching framework that can use any of several cache methods",
+            "a system for extending the capabilities of the template engine",
+            "an interface to Python's built-in unit test framework"
+        ]
+    },
+    {
+        "id": 105,
+        "title": "Adove Photoshop",
+        "details": "Whether you are a professional photographer or you want to improve your selfies or snapshots, Photoshop skills help you turn your photos into slick, compelling images. Learn Photoshop from real world professionals on Udemy, and join over 10 million others improving their photographs with this exciting suite of image editing software.",
+        "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/06/photoshop-cloud.jpg?quality=82&strip=all",
+        "duration": 3,
+        "price": 6000,
+        "class": 40,
+        "purchase": 5.1,
+        "time": 12.00,
+        "facilities": [
+            "live support",
+            "24 hour support",
+            "live class",
+            "assignment",
+            "update video",
+            "update version",
+            "special class",
+            "crush course"
+        ],
+        "photoshop": [
+            "The fastest way to center element(s) in photoshop is by using the marquee selection tool and I didn't even know it was possible until recently. ",
+            "I'm not happy with moving my mouse and clicking on a button. I'm lazy, so let's make this process even faster by creating our own keyboard shortcut to center the layer.",
+            "Photoshop now includes smart guides which appear on the screen as you move layers around, informing you of the location of the layer relative to other layers."
+        ]
+    },
+    {
+        "id": 106,
+        "title": "Adove Illustrator",
+        "details": "Adobe Illustrator's the industry standard when it comes to creating vector artwork. It's used by artists, illustrators, designers and many more creative, and enables you to create crisp and scalable artwork, graphics and illustrations on Mac, PC and iPad, and now you can even use it in a web browser.",
+        "image": "https://www.classcentral.com/report/wp-content/uploads/2022/06/Adobe-Illustrator-BCG-Banner.png",
+        "duration": 3,
+        "price": 6000,
+        "class": 40,
+        "purchase": 5.1,
+        "time": 12.00,
+        "facilities": [
+            "live support",
+            "24 hour support",
+            "live class",
+            "assignment",
+            "update video",
+            "update version",
+            "special class",
+            "crush course"
+        ],
+        "photoshop": [
+            "Vactor art",
+            "Creative Design",
+            "the information is extracted from BIM and contains mass data, such as the equipment information provided in building",
+            "Large Design",
+            "Easy use"
+        ]
+    }
+]
